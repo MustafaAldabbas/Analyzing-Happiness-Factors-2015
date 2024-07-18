@@ -1,4 +1,16 @@
-# SQL-Happiness_indicators-2015
+## Author
+
+Mustafa Aldabbas
+
+## Contact
+You can reach me on:  ![LinkedIn](https://www.linkedin.com/in/mustafa-aldabbas-85256b95/).
+
+on ![X](https://x.com/Mustafa_dabbas)
+
+
+# Analyzing Happiness Factors
+#### Insights from the 2015 World Happiness Report
+
 [presentation](https://docs.google.com/presentation/d/1aBNPlcYGfaX04Y_FsO-AF34vyIzdeIG6mFWgjNMbCrI/edit?usp=sharing)
 
 # Analyzing Happiness Factors
