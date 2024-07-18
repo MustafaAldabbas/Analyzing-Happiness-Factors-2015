@@ -31,6 +31,8 @@ The primary business problem addressed in this project is understanding the key 
 5. Stronger family support correlates with higher happiness.
 6. Generosity levels contribute positively to happiness.
 
+![generosity](https://github.com/MustafaAldabbas/SQL-Happiness_indicators-2015/blob/main/Visual%20analytics/generosity%20vs%20happiness%20score.png)
+
 ## Data Acquisition and Processing
 
 - **Data Sources**: The primary data source is Kaggle.
@@ -56,12 +58,16 @@ The database design includes the following tables and relationships:
 - **Trust (Government Corruption)**
 - **Generosity**
 
+
 ## Visualizations
 
 The project includes various visualizations to present the data and test the hypotheses:
 - Data Overview
 - Hypotheses Testing
 - Correlation Matrix
+- 
+![correlation_matrix](https://github.com/MustafaAldabbas/SQL-Happiness_indicators-2015/blob/main/Visual%20analytics/corelation%20matrix%20.png)
+
 
 ## Correlation Analysis
 
